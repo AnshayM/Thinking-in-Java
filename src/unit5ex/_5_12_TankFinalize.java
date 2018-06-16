@@ -21,7 +21,7 @@ class Tank{
 public class _5_12_TankFinalize {
 	public static void main(String[] args){
 		Tank tank = new Tank();
-		tank.clearTank();
+//		tank.clearTank();
 		new Tank();
 		System.gc();	//系统一般内存不会溢出，不会自己触发内存回收机制，这里强制使用
 	}

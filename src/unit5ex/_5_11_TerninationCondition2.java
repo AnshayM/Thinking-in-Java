@@ -22,7 +22,7 @@ class Book2 {
 	}
 }
 
-public class _5_10_TerninationCondition2 {
+public class _5_11_TerninationCondition2 {
 	public static void main(String[] args){
 		Book2 novel =new Book2(true);//区别与下面两个对象，为什么这个对象没有调用finalize()方法呢？请电联告知我，谢谢
 //		novel.checkIn();
