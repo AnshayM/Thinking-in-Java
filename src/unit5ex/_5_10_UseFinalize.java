@@ -11,9 +11,10 @@ class FinalizeTest{
 }
 
 public class _5_10_UseFinalize {
-	public static void main(String[] args){
+	public static void main(String[] args) throws Throwable{
 		System.out.println("ST");
 		FinalizeTest fTest = new FinalizeTest();
+		fTest.finalize();
 		System.out.println("END");
 	}
 }
