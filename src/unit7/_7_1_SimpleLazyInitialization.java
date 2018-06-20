@@ -67,8 +67,19 @@ public class _7_1_SimpleLazyInitialization {
 		System.out.println(second.getSimple()); // null
 		second.checked(); // simple not initialized
 		System.out.println(second.getSimple()); // null
-//		System.out.println(second); // 
+		System.out.println(second); // 
 		second.setSimple("New String"); //Creating Simple; 
 		System.out.println(second); // New String
 	}
 }
+
+/*
+simple not initialized
+null
+simple not initialized
+null
+Creating Simple
+null	//这个null从何而来，未知？求解答
+New String
+ * 
+ * */
