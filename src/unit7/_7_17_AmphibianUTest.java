@@ -31,6 +31,8 @@ class FrogU extends AmphibianU {
 		System.out.println("FrogU.play()");
 	}
 	
+	//继承是对于对象来说的
+	//static方法只是面向过程的方法体和对象无关，所以，static方法不能被ovverride
 	static void tune(AmphibianU a){
 		a.play();
 	}
