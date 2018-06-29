@@ -8,8 +8,13 @@
 
 完成进度：
 - 第5章 初始化与清理(18年6月)
+    - [示例代码](https://github.com/PLUSLEE/Thinking-in-Java/tree/master/src/unit5)
+    - [练习代码](https://github.com/PLUSLEE/Thinking-in-Java/tree/master/src/unit5ex)
 - 第6章 访问权限控制(18年6月)
+    - [示例代码](https://github.com/PLUSLEE/Thinking-in-Java/tree/master/src/unit6)
+    - [练习代码](https://github.com/PLUSLEE/Thinking-in-Java/tree/master/src/unit6t)
 - 第7章 复用类(18年6月)
+    - [代码](https://github.com/PLUSLEE/Thinking-in-Java/tree/master/src/unit7)
 - 第8章 多态
 - 第9章 接口
 - 第10章 内部类
