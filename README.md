@@ -1,6 +1,6 @@
-* Java编程思想（第四版）
+# Java编程思想（第四版）
 
-*  Thinking in Java （Forth Edition）
+##  Thinking in Java （Forth Edition）
 
 现有代码包含了很多书本中的源代码，因为从官网提供的资源中无法获取源代码。为了更好的学习，决定，手打源代码。一方面练习编程速度，同时记忆代码，学习编程风格。
 
