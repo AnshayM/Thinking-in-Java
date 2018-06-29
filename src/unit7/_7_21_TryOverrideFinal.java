@@ -14,7 +14,7 @@ class FinalClass {
 
 class ExtendsFinalClass extends FinalClass{
 	//编译器报错，提示无法override final类型的方法
-	@Override
+//	@Override
 //	public final void f() {
 //		System.out.println("FinalClass.f()");
 //	}
