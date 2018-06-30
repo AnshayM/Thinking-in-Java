@@ -2,6 +2,8 @@
 
 ##  Thinking in Java （Forth Edition）
 
+![Java 编程思想](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530383874453&di=c1960b71a7dab2052a4489fd53706d7b&imgtype=jpg&src=http%3A%2F%2Fimg0.imgtn.bdimg.com%2Fit%2Fu%3D687823555%2C264479265%26fm%3D214%26gp%3D0.jpg “Thinking In Java”)
+
 包含了很多书本中的源代码，因为从官网提供的资源中无法获取源代码。为了更好的学习，决定，手打源代码。一方面练习编程速度，同时记忆代码，学习编程风格。
 
 同时尽量将书本中的练习题，用代码的形式表达出来，同时附上自己的见解。
