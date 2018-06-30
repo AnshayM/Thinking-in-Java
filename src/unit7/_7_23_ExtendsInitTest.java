@@ -28,3 +28,8 @@ public class _7_23_ExtendsInitTest {
 		First.f();
 	}
 }
+
+
+/*
+
+ */
