@@ -1,4 +1,4 @@
-package unit8;
+package unit8.music;
 
 class Instrument{
 	public void play(Note n){
