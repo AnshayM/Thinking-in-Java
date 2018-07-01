@@ -9,10 +9,10 @@
 同时尽量将书本中的练习题，用代码的形式表达出来，同时附上自己的见解。
 
 完成进度：
-- 第1章 ~~对象导论~~
-- 第2章 ~~一切都是对象~~
-- 第3章 ~~操作符~~
-- 第4章 ~~控制执行流程~~
+- ~~第1章 对象导论~~
+- ~~第2章 一切都是对象~~
+- ~~第3章 操作符~~
+- ~~第4章 控制执行流程~~
 - 第5章 初始化与清理(18年6月)
     - [示例代码](https://github.com/PLUSLEE/Thinking-in-Java/tree/master/src/unit5)
     - [练习代码](https://github.com/PLUSLEE/Thinking-in-Java/tree/master/src/unit5ex)
