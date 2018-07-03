@@ -20,7 +20,7 @@ public class PrivateOverride {
 	}
 
 	public static void main(String[] args) {
-		PrivateOverride po = new Derived();
+		PrivateOverride po = new Derived();	//重点关注这一句的对象
 		po.f();
 	}
 }
