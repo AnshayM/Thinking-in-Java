@@ -21,7 +21,8 @@
     - [练习代码](https://github.com/PLUSLEE/Thinking-in-Java/tree/master/src/unit6t)
 - 第7章 复用类(18年6月)
     - [代码](https://github.com/PLUSLEE/Thinking-in-Java/tree/master/src/unit7)
-- 第8章 多态
+- 第8章 多态(18年7月)
+    - [代码](https://github.com/PLUSLEE/Thinking-in-Java/tree/master/src/unit8)
 - 第9章 接口
 - 第10章 内部类
 - 第11章 持有对象
