@@ -23,7 +23,8 @@
     - [代码](https://github.com/PLUSLEE/Thinking-in-Java/tree/master/src/unit7)
 - 第8章 多态(18年7月)
     - [代码](https://github.com/PLUSLEE/Thinking-in-Java/tree/master/src/unit8)
-- 第9章 接口
+- 第9章 接口(18年10月)
+    - [代码](https://github.com/PLUSLEE/Thinking-in-Java/tree/master/src/unit9)
 - 第10章 内部类
 - 第11章 持有对象
 - 第12章 通过异常处理错误
