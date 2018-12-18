@@ -2,435 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="138884bd-8c54-4aa6-a80f-35e3bcc824ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/templateLanguages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unit10/E10_2_LinkOuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unit10/E10_2_LinkOuter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unit10/Sequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/access/Widget.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/access/Widget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/access/foreign/Foreign.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/access/foreign/Foreign.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/access/local/PackageClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/access/local/PackageClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/debug/Same.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/debug/Same.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/debugoff/Same.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/debugoff/Same.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/personaUtils/Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/personaUtils/Print.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/personaUtils/Range.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/personaUtils/Range.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit10/E10_1_Outer$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit10/E10_1_Outer$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit10/E10_1_Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit10/E10_1_Outer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit10/Parcel1$Contents.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit10/Parcel1$Contents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit10/Parcel1$Destination.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit10/Parcel1$Destination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit10/Parcel1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit10/Parcel1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit10/Parcel2$Contents.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit10/Parcel2$Contents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit10/Parcel2$Destination.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit10/Parcel2$Destination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit10/Parcel2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit10/Parcel2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit2/HelloDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit2/HelloDate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit2/U2ex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit2/U2ex1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit2/U2ex2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit2/U2ex2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/ArrayClassObj.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/ArrayClassObj.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/ArrayInit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/ArrayInit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/ArrayNew.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/ArrayNew.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/DynamicArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/DynamicArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/EnumOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/EnumOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/NewVarArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/NewVarArgs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/OptionalTrailingArguments.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/OptionalTrailingArguments.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/Other.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/Other.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/OverloadingVarargs.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/OverloadingVarargs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/Rock.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/Rock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/Rock2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/Rock2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/SimpleConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/SimpleConstructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/SimpleConstructor2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/SimpleConstructor2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/Spiciness.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/Spiciness.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/TerninationCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/TerninationCondition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/VarArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/VarArgs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5/VarargType.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5/VarargType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Book2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/Book2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Cup.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/Cup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Cups.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/Cups.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Dog2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/Dog2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/FinalizeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/FinalizeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/GetString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/GetString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/GetString2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/GetString2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/OtherMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/OtherMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/SF.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/SF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/StringFiled.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/StringFiled.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/StringTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Tank.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/Tank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/TestTwoConstrictor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/TestTwoConstrictor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/TwoMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/TwoMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_02_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_02_String.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_10_TerninationCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_10_TerninationCondition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_10_UseFinalize.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_10_UseFinalize.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_11_TerninationCondition2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_11_TerninationCondition2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_12_TankFinalize.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_12_TankFinalize.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_13_initialization_ExplicitStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_13_initialization_ExplicitStatic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_14_StaticField.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_14_StaticField.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_15_InstanceInitialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_15_InstanceInitialization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_16_StringArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_16_StringArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_17_GetStringArgsCons.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_17_GetStringArgsCons.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_18_GetStringArgsCons.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_18_GetStringArgsCons.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_19_VarArgsString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_19_VarArgsString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_20_VarArgsMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_20_VarArgsMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_21_EnumMoneyType.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_21_EnumMoneyType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_21_EnumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_21_EnumTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_22_EnumSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_22_EnumSwitch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_3_default_constructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_3_default_constructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_4_default_constructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_4_default_constructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_5_DogTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_5_DogTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_6_DogTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_6_DogTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_8_UseThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_8_UseThis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_9_TwoConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit5ex/_5_9_TwoConstructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/ChocolateChip.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/ChocolateChip.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/Lunch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/Lunch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/Manager1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/Manager1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/Manager2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/Manager2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/PPP.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/PPP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/PrintTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/PrintTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/Soup1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/Soup1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/Soup2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/Soup2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_1_Package.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/_6_1_Package.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_2_ClassConflic.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/_6_2_ClassConflic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_3_ChangeDebugSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/_6_3_ChangeDebugSwitch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_4_ProtectedUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/_6_4_ProtectedUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_5_TestPPP.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/_6_5_TestPPP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_6_Protected1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/_6_6_Protected1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_6_Protected2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/_6_6_Protected2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_6_ProtectedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/_6_6_ProtectedTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_7_AccessAuthority.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/_6_7_AccessAuthority.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_8_ConnectionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/_6_8_ConnectionManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_9_TestPackage.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6/_6_9_TestPackage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6t/Cookie.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6t/Cookie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6t/TestPackage.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6t/TestPackage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6t/Vector.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6t/Vector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit6t/_6_4_ProtectedUse2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit6t/_6_4_ProtectedUse2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/AU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/AU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Amphibian.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Amphibian.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/AmphibianU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/AmphibianU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Art.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Art.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/BF.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/BF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/BU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/BU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Base.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/BaseExtends.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/BaseExtends.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/BlankFinal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/BlankFinal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/BoardGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/BoardGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/CADSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/CADSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/CU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/CU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Chess.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Chess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Cleanser.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Cleanser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Component1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Component1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Component1U.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Component1U.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Component2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Component2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Component2U.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Component2U.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Component3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Component3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Component3U.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Component3U.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Custom.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Custom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Delegation/SapceShipControls.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Delegation/SapceShipControls.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Delegation/SpaceShipDelegation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Delegation/SpaceShipDelegation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Detergent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Detergent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/DetergentDelegation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/DetergentDelegation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/DinnerPlate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/DinnerPlate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Dinosaur.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Dinosaur.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Door.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Door.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Drawing.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Drawing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Engine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/ExtendsFinalClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/ExtendsFinalClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/FinalArgument.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/FinalArgument.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/FinalClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/FinalClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/FinalData.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/FinalData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/FinalOverridingIllusion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/FinalOverridingIllusion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/First.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/First.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Fork.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Fork.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Frog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Frog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/FrogU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/FrogU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Gizmo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Gizmo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Instrument.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Instrument.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Jurassic.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Jurassic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Knife.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Knife.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Line.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Line.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Orc.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Orc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/OverridingPrivate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/OverridingPrivate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/OverridingPrivate2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/OverridingPrivate2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/PlaceSetting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/PlaceSetting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Plate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Plate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Poppet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Poppet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/ProduceInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/ProduceInt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Reload.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Reload.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/ReloadExtends.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/ReloadExtends.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Root.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Root.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/RootU.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/RootU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Second.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Second.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Simple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/SmallBrain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/SmallBrain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Spoon.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Spoon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/SprinklerSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/SprinklerSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Stem.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Stem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Utensil.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Utensil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Value.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Value.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Villian.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Villian.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/WaterSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/WaterSource.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Wheel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Wheel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Wind.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Wind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/Window.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/WithFinal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/WithFinal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/WithFinals.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/WithFinals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/WithoutFinal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/WithoutFinal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_12_RootDispose.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/_7_12_RootDispose.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_13_ReloadExtends.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/_7_13_ReloadExtends.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_15_Protected.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/_7_15_Protected.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_16_AmphibianTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/_7_16_AmphibianTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_17_AmphibianUTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/_7_17_AmphibianUTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_18_StaticFinalandFinal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/_7_18_StaticFinalandFinal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_19_BlankFinal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/_7_19_BlankFinal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_1_SimpleLazyInitialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/_7_1_SimpleLazyInitialization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_21_TryOverrideFinal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/_7_21_TryOverrideFinal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_23_ExtendsInitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/_7_23_ExtendsInitTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_2_DetergentExtends.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/_7_2_DetergentExtends.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_3_Cartoon.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/_7_3_Cartoon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_5_ClassABC.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/_7_5_ClassABC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_7_ClassABCUpdate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/_7_7_ClassABCUpdate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_8_ConstructorUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/_7_8_ConstructorUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_9_Root.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/_7_9_Root.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/protectedUse/ProtectedOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/protectedUse/ProtectedOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit7/protectedUse/ProtectedTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit7/protectedUse/ProtectedTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Actor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Actor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/AlertStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/AlertStatus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Amphibian.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Amphibian.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Bicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Bicycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Bread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Bread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Characteristic.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Characteristic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Cheese.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Cheese.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/ClassExtends.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/ClassExtends.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Composing.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Composing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Controler.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Controler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/ConvariantReturn.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/ConvariantReturn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Cycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Cycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Derived.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Derived.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Description.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Description.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/FieldAccess.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/FieldAccess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Frog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Frog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Gerbil.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Gerbil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Glyph.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Glyph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Grain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Grain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/GreenAlert.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/GreenAlert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Hamster.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Hamster.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/HappyActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/HappyActor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Lettuce.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Lettuce.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/LivingCreature.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/LivingCreature.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Lunch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Lunch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Meal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Meal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Mill.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Mill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Mouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Pickle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Pickle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/PolyConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/PolyConstructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/PortableLunch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/PortableLunch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/PrivateOverride.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/PrivateOverride.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/RedAlert.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/RedAlert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/ReferenceCounting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/ReferenceCounting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Rodent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Rodent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/RoundGlyph.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/RoundGlyph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/SadActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/SadActor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Sandwich.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Sandwich.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Shared.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Shared.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Stage.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Stage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/StaticPolymorphism.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/StaticPolymorphism.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/StaticSub.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/StaticSub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/StaticSuper.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/StaticSuper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Sub.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Sub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Super.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Super.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Transmogrify.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Transmogrify.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Tricycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Tricycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/TwoMethodClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/TwoMethodClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Unicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Unicycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/Wheat.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/Wheat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/WheatMill.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/WheatMill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/YellowAlert.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/YellowAlert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/_8_10_TwoMethodBaseClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/_8_10_TwoMethodBaseClassTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/_8_16_TransmogrifyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/_8_16_TransmogrifyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/_8_1_CycleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/_8_1_CycleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/_8_5_NewCycleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/_8_5_NewCycleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/_8_9_RodentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/_8_9_RodentTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/music/Instrument.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/music/Instrument.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/music/Music.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/music/Music.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/music/Note.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/music/Note.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/music/Wind.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/music/Wind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/Brass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/musicmore/Brass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/Instrument.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/musicmore/Instrument.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/Music3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/musicmore/Music3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/Music4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/musicmore/Music4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/Music5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/musicmore/Music5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/NewInstrument.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/musicmore/NewInstrument.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/Percussion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/musicmore/Percussion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/Stringed.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/musicmore/Stringed.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/Wind.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/musicmore/Wind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/WoodWind.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/musicmore/WoodWind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/shape/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/shape/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/shape/RandomShapeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/shape/RandomShapeGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/shape/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/shape/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/shape/Shapes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/shape/Shapes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/shape/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/shape/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit8/shape/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit8/shape/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/A$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/A$B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/A$Bimp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/A$Bimp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/A$C.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/A$C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/A$Cimp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/A$Cimp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/A$Cimp2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/A$Cimp2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/A$D.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/A$D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/A$Dimp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/A$Dimp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/A$Dimp2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/A$Dimp2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/AbsNoMehthod.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/AbsNoMehthod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/AbsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/AbsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/ActionCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/ActionCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/AdapterRandomDouble.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/AdapterRandomDouble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Adventure.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Adventure.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Apply.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Apply.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Base.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/BaseClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/BaseInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/BaseInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/BaseP.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/BaseP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/BaseP2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/BaseP2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Bicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Bicycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/BicycleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/BicycleFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Brass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Brass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Brasss.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Brasss.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Brasss10.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Brasss10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Brasss9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Brasss9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/CanFight.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/CanFight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/CanFly.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/CanFly.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/CanRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/CanRun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/CanSwim.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/CanSwim.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/ComInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/ComInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/CombinedImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/CombinedImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/CombinedInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/CombinedInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Cycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Cycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/CycleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/CycleFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/DangerousMonster.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/DangerousMonster.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Downcase.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Downcase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/DragonZilla.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/DragonZilla.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/E$G.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/E$G.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/E$H.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/E$H.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/E.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/E.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/E9_14_ExtendsInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/E9_14_ExtendsInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/E9_15_AbsClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/E9_15_AbsClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/E9_16_ScannerAdapterList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/E9_16_ScannerAdapterList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/E9_17TestInterfaceHideStaticFinal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/E9_17TestInterfaceHideStaticFinal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/E9_18_UseFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/E9_18_UseFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/E9_19_GameFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/E9_19_GameFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Factories.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Factories.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Factories2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Factories2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/FirInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/FirInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/GameFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/GameFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Gerbil.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Gerbil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Gerbil9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Gerbil9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Hamster.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Hamster.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Hamster9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Hamster9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/HasMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/HasMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Hero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/HorrorShow.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/HorrorShow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Implication.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Implication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Implication2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Implication2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/ImplicationFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/ImplicationFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/ImplicationFactory2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/ImplicationFactory2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Instrument.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Instrument.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Instruments.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Instruments.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Instruments10.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Instruments10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/InterfaceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/InterfaceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/IntermediateInterface1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/IntermediateInterface1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/IntermediateInterface2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/IntermediateInterface2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Lethal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Lethal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Meth.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Meth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Monster.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Monster.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Mouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Mouse9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Mouse9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Music4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Music4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Music5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Music5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/NestingInterface$Bimp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/NestingInterface$Bimp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/NestingInterface$Cimp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/NestingInterface$Cimp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/NestingInterface$EGimp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/NestingInterface$EGimp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/NestingInterface$Eimp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/NestingInterface$Eimp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/NestingInterface$Eimp2$EG.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/NestingInterface$Eimp2$EG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/NestingInterface$Eimp2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/NestingInterface$Eimp2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/NestingInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/NestingInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/NewInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/NewInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/NextClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/NextClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/NoAbstractMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/NoAbstractMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Percussion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Percussion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Percussions.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Percussions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Percussions10.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Percussions10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Percussions9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Percussions9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Playable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Playable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Processor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/RandVals.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/RandVals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/RandValsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/RandValsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/RandomDouble.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/RandomDouble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/RandomWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/RandomWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/RingOiler.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/RingOiler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/RingOilerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/RingOilerFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Rodent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Rodent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Rodent9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Rodent9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/SecInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/SecInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/ServiceFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/ServiceFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Splitter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Splitter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Striingeds.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Striingeds.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Striingeds10.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Striingeds10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/StringAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/StringAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Stringed.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Stringed.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Stringeds9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Stringeds9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/ThiInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/ThiInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Throw.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Throw.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/ThrowFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/ThrowFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Tricycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Tricycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/TricycleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/TricycleFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Unicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Unicycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/UnicycleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/UnicycleFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Upcase.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Upcase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Vampire.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Vampire.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/VeryBadVampire.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/VeryBadVampire.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Wind.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Wind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Winds.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Winds.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Winds10.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Winds10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/Winds9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/Winds9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/WoodWind.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/WoodWind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/WoodWinds.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/WoodWinds.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/WoodWinds10.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/WoodWinds10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/WoodWinds9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/WoodWinds9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_10_ModifyMusic5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/_9_10_ModifyMusic5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_11_AdapterInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/_9_11_AdapterInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_1_RodentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/_9_1_RodentTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_2_NoAbstractMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/_9_2_NoAbstractMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_3_BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/_9_3_BaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_4_AbsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/_9_4_AbsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_6_InterfaceIsAutoPublic.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/_9_6_InterfaceIsAutoPublic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_7_RodentInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/_9_7_RodentInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_9_ReconstructionMusic5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/_9_9_ReconstructionMusic5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/pack1/_9_5_Interface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/pack1/_9_5_Interface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/pack2/Implements.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/pack2/Implements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/pack2/_9_5_Implement.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/pack2/_9_5_Implement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/pack3/Apply.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/pack3/Apply.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/pack3/BandPass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/pack3/BandPass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/pack3/Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/pack3/Filter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/pack3/HighPass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/pack3/HighPass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/pack3/LowPass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/pack3/LowPass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/pack3/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/pack3/Processor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit9/pack3/Waveform.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit9/pack3/Waveform.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit10/E10_1_Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit10/E10_1_Outer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit10/Parcel1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit10/Parcel1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit10/E10_2_LinkOuterStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/E10_2_LinkOuter3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/E10_2_LinkOuter3$SequeceSelector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/E10_2_LinkOuter3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/Holder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/Selector3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/Sequence$SequenceSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit10/Sequence$SequenceSelector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/Sequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit10/Sequence.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -449,83 +29,42 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2775" />
+          <entry key="java" value="4444" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2775" />
+          <entry key="JAVA" value="4444" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.48844886">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/unit10/Parcel1.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="391">
-                  <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/unit10/Parcel2.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="486">
-                  <caret line="42" column="24" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="24" />
-                  <folding>
-                    <element signature="e#102#103#0" expanded="true" />
-                    <element signature="e#119#120#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/unit10/E10_1_Outer.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="442">
-                  <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-                  <folding>
-                    <element signature="e#130#131#0" expanded="true" />
-                    <element signature="e#162#163#0" expanded="true" />
-                    <element signature="e#199#200#0" expanded="true" />
-                    <element signature="e#233#234#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/unit10/Sequence.java">
+            <entry file="file://$PROJECT_DIR$/src/unit10/E10_2_LinkOuterStr.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="425">
-                  <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+                <state relative-caret-position="68">
+                  <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
                   <folding>
-                    <element signature="e#270#271#0" expanded="true" />
-                    <element signature="e#310#311#0" expanded="true" />
-                    <element signature="e#537#538#0" expanded="true" />
-                    <element signature="e#573#574#0" expanded="true" />
-                    <element signature="e#669#670#0" expanded="true" />
-                    <element signature="e#708#709#0" expanded="true" />
-                    <element signature="e#756#757#0" expanded="true" />
-                    <element signature="e#782#783#0" expanded="true" />
-                    <element signature="e#837#838#0" expanded="true" />
-                    <element signature="e#882#883#0" expanded="true" />
+                    <element signature="e#118#119#0" expanded="true" />
+                    <element signature="e#148#149#0" expanded="true" />
+                    <element signature="e#219#220#0" expanded="true" />
+                    <element signature="e#266#267#0" expanded="true" />
+                    <element signature="e#299#300#0" expanded="true" />
+                    <element signature="e#333#334#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -535,11 +74,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/unit10/E10_2_LinkOuter.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="374">
-                  <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+                <state relative-caret-position="119">
+                  <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
                   <folding>
                     <element signature="e#277#278#0" expanded="true" />
                     <element signature="e#303#304#0" expanded="true" />
@@ -557,26 +96,26 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/unit10/E10_2_LinkOuter2.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="374">
-                  <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-                  <folding>
-                    <element signature="e#277#278#0" expanded="true" />
-                    <element signature="e#303#304#0" expanded="true" />
-                    <element signature="e#349#350#0" expanded="true" />
-                    <element signature="e#384#385#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="270">
+                  <caret line="27" column="36" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="36" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="jar://E:/Develop/java_/src.zip!/java/lang/Object.java">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/unit10/Sequence.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="226">
-                  <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+                <state relative-caret-position="-87">
+                  <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
                   <folding>
-                    <element signature="e#10065#10066#0" expanded="true" />
-                    <element signature="e#10148#10149#0" expanded="true" />
+                    <element signature="e#791#792#0" expanded="true" />
+                    <element signature="e#839#840#0" expanded="true" />
+                    <element signature="e#917#918#0" expanded="true" />
+                    <element signature="e#956#957#0" expanded="true" />
+                    <element signature="e#1036#1037#0" expanded="true" />
+                    <element signature="e#1085#1086#0" expanded="true" />
+                    <element signature="e#1161#1162#0" expanded="true" />
+                    <element signature="e#1206#1207#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -607,9 +146,11 @@
         <option value="$PROJECT_DIR$/src/unit10/Parcel1.java" />
         <option value="$PROJECT_DIR$/src/unit10/E10_1_Outer.java" />
         <option value="$PROJECT_DIR$/src/unit10/E10_2_LinkOuter.java" />
-        <option value="$PROJECT_DIR$/src/unit10/E10_2_LinkOuter3.java" />
         <option value="$PROJECT_DIR$/src/unit10/E10_2_LinkOuter2.java" />
         <option value="$PROJECT_DIR$/src/unit10/Sequence.java" />
+        <option value="$PROJECT_DIR$/src/unit10/E10_2_LinkOuter3.java" />
+        <option value="$PROJECT_DIR$/src/unit10/LinkOuter.java" />
+        <option value="$PROJECT_DIR$/src/unit10/E10_2_LinkOuterStr.java" />
       </list>
     </option>
   </component>
@@ -619,11 +160,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1233" />
-    <option name="y" value="-23" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="22" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -652,6 +193,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="unit10" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Thinking in Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thinking in Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="unit10" type="462c0819:PsiDirectoryNode" />
+              <item name="E10_2_LinkOuter.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Thinking in Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thinking in Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="unit10" type="462c0819:PsiDirectoryNode" />
+              <item name="E10_2_LinkOuter2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -663,7 +218,7 @@
     <property name="SearchEverywhereHistoryKey" value="histo&#9;ACTION&#9;LocalHistory.ShowHistory&#10;history&#9;ACTION&#9;LocalHistory.ShowHistory" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544890671863" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545144500086" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -689,20 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.E10_2_LinkOuter3">
-    <configuration name="E10_1_Outer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit10.E10_1_Outer" />
-      <module name="Thinking in Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="unit10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.E10_2_LinkOuterStr">
     <configuration name="E10_2_LinkOuter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unit10.E10_2_LinkOuter" />
       <module name="Thinking in Java" />
@@ -729,8 +271,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parcel1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit10.Parcel1" />
+    <configuration name="E10_2_LinkOuterStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit10.E10_2_LinkOuterStr" />
+      <module name="Thinking in Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkOuter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit10.LinkOuter" />
       <module name="Thinking in Java" />
       <extension name="coverage">
         <pattern>
@@ -756,19 +311,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Parcel1" />
-      <item itemvalue="Application.E10_1_Outer" />
       <item itemvalue="Application.Sequence" />
       <item itemvalue="Application.E10_2_LinkOuter" />
       <item itemvalue="Application.E10_2_LinkOuter3" />
+      <item itemvalue="Application.LinkOuter" />
+      <item itemvalue="Application.E10_2_LinkOuterStr" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E10_2_LinkOuterStr" />
+        <item itemvalue="Application.LinkOuter" />
         <item itemvalue="Application.E10_2_LinkOuter3" />
         <item itemvalue="Application.E10_2_LinkOuter" />
         <item itemvalue="Application.Sequence" />
-        <item itemvalue="Application.E10_1_Outer" />
-        <item itemvalue="Application.Parcel1" />
       </list>
     </recent_temporary>
   </component>
@@ -782,15 +337,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544873924753</updated>
-      <workItem from="1544873936050" duration="12716000" />
+      <workItem from="1544873936050" duration="18714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12716000" />
+    <option name="totallyTimeSpent" value="18714000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1272" y="22" width="1936" height="1066" extended-state="7" />
+    <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -798,16 +353,16 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1924307" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32956383" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" weight="0.24167562" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.24167562" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.24071082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -830,13 +385,26 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/unit10/Parcel2.java">
+    <entry file="jar://E:/Develop/java_/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="42" column="24" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="24" />
+        <state relative-caret-position="-23">
+          <caret line="123" column="44" selection-start-line="123" selection-start-column="44" selection-end-line="123" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/unit10/LinkOuter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
           <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -852,30 +420,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/Develop/java_/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="123" column="44" selection-start-line="123" selection-start-column="44" selection-end-line="123" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/unit10/E10_2_LinkOuter3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="487">
+          <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
           <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-            <element signature="e#940#941#0" expanded="true" />
-            <element signature="e#1095#1096#0" expanded="true" />
-            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#828#829#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -887,9 +444,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/unit10/Parcel2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="24" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/unit10/E10_1_Outer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
+        <state relative-caret-position="420">
           <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
           <folding>
             <element signature="e#130#131#0" expanded="true" />
@@ -902,21 +470,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/unit10/E10_2_LinkOuter2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-          <folding>
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/unit10/E10_2_LinkOuter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="119">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
           <folding>
             <element signature="e#277#278#0" expanded="true" />
             <element signature="e#303#304#0" expanded="true" />
@@ -932,19 +494,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/unit10/Sequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="-87">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
           <folding>
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#756#757#0" expanded="true" />
-            <element signature="e#782#783#0" expanded="true" />
-            <element signature="e#837#838#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+            <element signature="e#1161#1162#0" expanded="true" />
+            <element signature="e#1206#1207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/unit10/E10_2_LinkOuterStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
           </folding>
         </state>
       </provider>
