@@ -2,15 +2,614 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="138884bd-8c54-4aa6-a80f-35e3bcc824ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/unit10/E10_2_LinkOuterStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit10/E10_2_LinkOuter3$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit10/E10_2_LinkOuter3$SequeceSelector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit10/E10_2_LinkOuter3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit10/Holder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit10/Selector3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit10/Sequence$SequenceSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit10/Sequence$SequenceSelector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/unit10/Sequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unit10/Sequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/access/Widget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/access/foreign/Foreign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/access/local/PackageClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/debug/Same.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/debugoff/Same.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/personaUtils/Print.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/personaUtils/Range.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/E10_1_Outer$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/E10_1_Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/E10_2_LinkOuter$E10_2_LinkOuterSelector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/E10_2_LinkOuter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/E10_2_LinkOuter2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/E10_2_LinkOuterStr$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/E10_2_LinkOuterStr$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/E10_2_LinkOuterStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/MyHold.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/Parcel1$Contents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/Parcel1$Destination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/Parcel1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/Parcel2$Contents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/Parcel2$Destination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/Parcel2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/Selector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/Selector2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/Sequence$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/Sequence$SequenceSelector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit10/Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit2/HelloDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit2/U2ex1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit2/U2ex2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/ArrayClassObj.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/ArrayInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/ArrayNew.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/DynamicArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/EnumOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/NewVarArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/OptionalTrailingArguments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/Other.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/OverloadingVarargs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/Rock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/Rock2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/SimpleConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/SimpleConstructor2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/Spiciness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/TerninationCondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/VarArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5/VarargType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Book2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Cup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Cups.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Dog2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/FinalizeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/GetString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/GetString2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/OtherMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/SF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/StringFiled.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/StringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Tank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/TestTwoConstrictor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/TwoMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_02_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_10_TerninationCondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_10_UseFinalize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_11_TerninationCondition2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_12_TankFinalize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_13_initialization_ExplicitStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_14_StaticField.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_15_InstanceInitialization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_16_StringArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_17_GetStringArgsCons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_18_GetStringArgsCons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_19_VarArgsString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_20_VarArgsMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_21_EnumMoneyType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_21_EnumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_22_EnumSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_3_default_constructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_4_default_constructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_5_DogTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_6_DogTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_8_UseThis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit5ex/_5_9_TwoConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/ChocolateChip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/Lunch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/Manager1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/Manager2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/PPP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/PrintTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/Soup1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/Soup2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_1_Package.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_2_ClassConflic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_3_ChangeDebugSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_4_ProtectedUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_5_TestPPP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_6_Protected1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_6_Protected2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_6_ProtectedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_7_AccessAuthority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_8_ConnectionManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6/_6_9_TestPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6t/Cookie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6t/TestPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6t/Vector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit6t/_6_4_ProtectedUse2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/AU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Amphibian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/AmphibianU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Art.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/BF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/BU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/BaseExtends.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/BlankFinal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/BoardGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/CADSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/CU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Chess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Cleanser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Component1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Component1U.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Component2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Component2U.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Component3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Component3U.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Custom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Delegation/SapceShipControls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Delegation/SpaceShipDelegation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Detergent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/DetergentDelegation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/DinnerPlate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Dinosaur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Door.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Drawing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/ExtendsFinalClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/FinalArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/FinalClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/FinalData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/FinalOverridingIllusion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/First.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Fork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Frog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/FrogU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Gizmo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Instrument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Jurassic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Knife.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Line.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Orc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/OverridingPrivate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/OverridingPrivate2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/PlaceSetting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Plate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Poppet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/ProduceInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Reload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/ReloadExtends.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Root.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/RootU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Second.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Simple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/SmallBrain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Spoon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/SprinklerSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Stem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Utensil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Value.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Villian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/WaterSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Wheel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Wind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/Window.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/WithFinal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/WithFinals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/WithoutFinal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_12_RootDispose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_13_ReloadExtends.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_15_Protected.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_16_AmphibianTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_17_AmphibianUTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_18_StaticFinalandFinal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_19_BlankFinal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_1_SimpleLazyInitialization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_21_TryOverrideFinal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_23_ExtendsInitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_2_DetergentExtends.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_3_Cartoon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_5_ClassABC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_7_ClassABCUpdate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_8_ConstructorUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/_7_9_Root.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/protectedUse/ProtectedOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit7/protectedUse/ProtectedTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Actor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/AlertStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Amphibian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Bicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Bread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Characteristic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Cheese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/ClassExtends.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Composing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Controler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/ConvariantReturn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Cycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Derived.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Description.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/FieldAccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Frog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Gerbil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Glyph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Grain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/GreenAlert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Hamster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/HappyActor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Lettuce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/LivingCreature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Lunch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Meal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Mill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Pickle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/PolyConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/PortableLunch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/PrivateOverride.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/RedAlert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/ReferenceCounting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Rodent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/RoundGlyph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/SadActor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Sandwich.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Shared.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Stage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/StaticPolymorphism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/StaticSub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/StaticSuper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Sub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Super.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Transmogrify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Tricycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/TwoMethodClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Unicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/Wheat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/WheatMill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/YellowAlert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/_8_10_TwoMethodBaseClassTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/_8_16_TransmogrifyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/_8_1_CycleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/_8_5_NewCycleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/_8_9_RodentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/music/Instrument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/music/Music.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/music/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/music/Wind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/Brass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/Instrument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/Music3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/Music4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/Music5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/NewInstrument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/Percussion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/Stringed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/Wind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/musicmore/WoodWind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/shape/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/shape/RandomShapeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/shape/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/shape/Shapes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/shape/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit8/shape/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/A$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/A$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/A$Bimp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/A$C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/A$Cimp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/A$Cimp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/A$D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/A$Dimp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/A$Dimp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/AbsNoMehthod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/AbsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/ActionCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/AdapterRandomDouble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Adventure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Apply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/BaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/BaseInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/BaseP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/BaseP2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Bicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/BicycleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Brass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Brasss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Brasss10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Brasss9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/CanFight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/CanFly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/CanRun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/CanSwim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/ComInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/CombinedImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/CombinedInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Cycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/CycleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/DangerousMonster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Downcase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/DragonZilla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/E$G.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/E$H.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/E.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/E9_14_ExtendsInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/E9_15_AbsClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/E9_16_ScannerAdapterList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/E9_17TestInterfaceHideStaticFinal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/E9_18_UseFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/E9_19_GameFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Factories.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Factories2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/FirInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/GameFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Gerbil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Gerbil9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Hamster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Hamster9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/HasMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/HorrorShow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Implication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Implication2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/ImplicationFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/ImplicationFactory2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Instrument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Instruments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Instruments10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/InterfaceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/IntermediateInterface1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/IntermediateInterface2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Lethal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Meth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Monster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Mouse9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Music4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Music5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/NestingInterface$Bimp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/NestingInterface$Cimp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/NestingInterface$EGimp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/NestingInterface$Eimp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/NestingInterface$Eimp2$EG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/NestingInterface$Eimp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/NestingInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/NewInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/NextClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/NoAbstractMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Percussion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Percussions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Percussions10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Percussions9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Playable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Processor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/RandVals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/RandValsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/RandomDouble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/RandomWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/RingOiler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/RingOilerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Rodent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Rodent9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/SecInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/ServiceFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Splitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Striingeds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Striingeds10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/StringAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Stringed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Stringeds9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/ThiInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Throw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/ThrowFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Tricycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/TricycleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Unicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/UnicycleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Upcase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Vampire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/VeryBadVampire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Wind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Winds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Winds10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/Winds9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/WoodWind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/WoodWinds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/WoodWinds10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/WoodWinds9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_10_ModifyMusic5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_11_AdapterInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_1_RodentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_2_NoAbstractMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_3_BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_4_AbsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_6_InterfaceIsAutoPublic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_7_RodentInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/_9_9_ReconstructionMusic5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/pack1/_9_5_Interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/pack2/Implements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/pack2/_9_5_Implement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/pack3/Apply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/pack3/BandPass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/pack3/Filter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/pack3/HighPass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/pack3/LowPass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/pack3/Processor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unit9/pack3/Waveform.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/access/Widget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/access/Widget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/access/foreign/Foreign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/access/foreign/Foreign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/access/local/PackageClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/access/local/PackageClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/debug/Same.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/debug/Same.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/debugoff/Same.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/debugoff/Same.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/personaUtils/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personaUtils/Print.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/personaUtils/Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personaUtils/Range.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit10/E10_1_Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit10/E10_1_Outer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit10/E10_2_LinkOuter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit10/E10_2_LinkOuter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit10/E10_2_LinkOuter2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit10/E10_2_LinkOuter2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit10/E10_2_LinkOuterStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit10/E10_2_LinkOuterStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit10/Parcel1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit10/Parcel1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit10/Parcel2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit10/Parcel2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit10/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit10/Sequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit2/HelloDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit2/HelloDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit2/U2ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit2/U2ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit2/U2ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit2/U2ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5/ArrayClassObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5/ArrayClassObj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5/ArrayInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5/ArrayInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5/ArrayNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5/ArrayNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5/DynamicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5/EnumOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5/EnumOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5/NewVarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5/NewVarArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5/OptionalTrailingArguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5/OptionalTrailingArguments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5/OverloadingVarargs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5/OverloadingVarargs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5/SimpleConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5/SimpleConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5/SimpleConstructor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5/SimpleConstructor2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5/Spiciness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5/Spiciness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5/TerninationCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5/TerninationCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5/VarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5/VarArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5/VarargType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5/VarargType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_02_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_02_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_10_TerninationCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_10_TerninationCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_10_UseFinalize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_10_UseFinalize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_11_TerninationCondition2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_11_TerninationCondition2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_12_TankFinalize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_12_TankFinalize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_13_initialization_ExplicitStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_13_initialization_ExplicitStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_14_StaticField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_14_StaticField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_15_InstanceInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_15_InstanceInitialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_16_StringArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_16_StringArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_17_GetStringArgsCons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_17_GetStringArgsCons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_18_GetStringArgsCons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_18_GetStringArgsCons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_19_VarArgsString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_19_VarArgsString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_20_VarArgsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_20_VarArgsMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_21_EnumMoneyType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_21_EnumMoneyType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_21_EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_21_EnumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_22_EnumSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_22_EnumSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_3_default_constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_3_default_constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_4_default_constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_4_default_constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_5_DogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_5_DogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_6_DogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_6_DogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_8_UseThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_8_UseThis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit5ex/_5_9_TwoConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit5ex/_5_9_TwoConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6/ChocolateChip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6/ChocolateChip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6/Lunch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6/Lunch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6/PrintTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6/PrintTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6/_6_1_Package.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6/_6_1_Package.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6/_6_2_ClassConflic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6/_6_2_ClassConflic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6/_6_3_ChangeDebugSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6/_6_3_ChangeDebugSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6/_6_4_ProtectedUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6/_6_4_ProtectedUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6/_6_5_TestPPP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6/_6_5_TestPPP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6/_6_6_Protected2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6/_6_6_Protected2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6/_6_6_ProtectedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6/_6_6_ProtectedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6/_6_7_AccessAuthority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6/_6_7_AccessAuthority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6/_6_8_ConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6/_6_8_ConnectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6/_6_9_TestPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6/_6_9_TestPackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6t/Cookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6t/Cookie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6t/TestPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6t/TestPackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6t/Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6t/Vector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit6t/_6_4_ProtectedUse2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit6t/_6_4_ProtectedUse2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/BlankFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/BlankFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/CADSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/CADSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/Chess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/Chess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/Delegation/SapceShipControls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/Delegation/SapceShipControls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/Delegation/SpaceShipDelegation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/Delegation/SpaceShipDelegation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/Detergent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/Detergent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/DetergentDelegation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/DetergentDelegation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/FinalArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/FinalArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/FinalData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/FinalData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/FinalOverridingIllusion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/FinalOverridingIllusion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/Jurassic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/Jurassic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/Orc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/Orc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/PlaceSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/PlaceSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/Root.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/Root.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/SprinklerSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/SprinklerSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/Wind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/Wind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/_7_12_RootDispose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/_7_12_RootDispose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/_7_13_ReloadExtends.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/_7_13_ReloadExtends.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/_7_15_Protected.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/_7_15_Protected.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/_7_16_AmphibianTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/_7_16_AmphibianTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/_7_17_AmphibianUTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/_7_17_AmphibianUTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/_7_18_StaticFinalandFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/_7_18_StaticFinalandFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/_7_19_BlankFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/_7_19_BlankFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/_7_1_SimpleLazyInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/_7_1_SimpleLazyInitialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/_7_21_TryOverrideFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/_7_21_TryOverrideFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/_7_23_ExtendsInitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/_7_23_ExtendsInitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/_7_2_DetergentExtends.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/_7_2_DetergentExtends.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/_7_3_Cartoon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/_7_3_Cartoon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/_7_5_ClassABC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/_7_5_ClassABC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/_7_7_ClassABCUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/_7_7_ClassABCUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/_7_8_ConstructorUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/_7_8_ConstructorUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/_7_9_Root.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/_7_9_Root.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit7/protectedUse/ProtectedOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit7/protectedUse/ProtectedOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/ConvariantReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/ConvariantReturn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/FieldAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/FieldAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/Frog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/Frog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/PolyConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/PolyConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/PrivateOverride.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/PrivateOverride.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/ReferenceCounting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/ReferenceCounting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/Sandwich.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/Sandwich.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/StaticPolymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/StaticPolymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/Transmogrify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/Transmogrify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/_8_10_TwoMethodBaseClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/_8_10_TwoMethodBaseClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/_8_16_TransmogrifyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/_8_16_TransmogrifyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/_8_1_CycleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/_8_1_CycleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/_8_5_NewCycleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/_8_5_NewCycleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/_8_9_RodentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/_8_9_RodentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/music/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/music/Music.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/music/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/music/Note.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/music/Wind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/music/Wind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/musicmore/Music3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/musicmore/Music3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/musicmore/Music4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/musicmore/Music4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/musicmore/Music5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/musicmore/Music5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/shape/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/shape/RandomShapeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/shape/RandomShapeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/shape/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/shape/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/shape/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/shape/Shapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/shape/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/shape/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit8/shape/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit8/shape/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/AdapterRandomDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/AdapterRandomDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/Adventure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/Adventure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/Apply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/Apply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/E9_14_ExtendsInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/E9_14_ExtendsInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/E9_15_AbsClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/E9_15_AbsClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/E9_16_ScannerAdapterList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/E9_16_ScannerAdapterList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/E9_17TestInterfaceHideStaticFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/E9_17TestInterfaceHideStaticFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/E9_18_UseFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/E9_18_UseFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/E9_19_GameFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/E9_19_GameFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/Factories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/Factories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/Factories2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/Factories2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/HorrorShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/HorrorShow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/Music4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/Music4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/Music5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/Music5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/NestingInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/NestingInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/NewInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/NewInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/RandVals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/RandVals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/RandValsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/RandValsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/RandomDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/RandomDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/RandomWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/RandomWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/_9_10_ModifyMusic5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/_9_10_ModifyMusic5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/_9_11_AdapterInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/_9_11_AdapterInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/_9_1_RodentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/_9_1_RodentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/_9_2_NoAbstractMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/_9_2_NoAbstractMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/_9_3_BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/_9_3_BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/_9_4_AbsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/_9_4_AbsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/_9_6_InterfaceIsAutoPublic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/_9_6_InterfaceIsAutoPublic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/_9_7_RodentInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/_9_7_RodentInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/_9_9_ReconstructionMusic5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/_9_9_ReconstructionMusic5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/pack1/_9_5_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/pack1/_9_5_Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/pack2/_9_5_Implement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/pack2/_9_5_Implement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/pack3/Apply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/pack3/Apply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/pack3/BandPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/pack3/BandPass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/pack3/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/pack3/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/pack3/HighPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/pack3/HighPass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/pack3/LowPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/pack3/LowPass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/pack3/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/pack3/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit9/pack3/Waveform.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit9/pack3/Waveform.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +622,15 @@
     <session id="-1754566604">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -40,11 +646,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="4444" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="4444" />
+          <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
     </session>
@@ -52,20 +660,12 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/unit10/E10_2_LinkOuterStr.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="68">
-                  <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-                  <folding>
-                    <element signature="e#118#119#0" expanded="true" />
-                    <element signature="e#148#149#0" expanded="true" />
-                    <element signature="e#219#220#0" expanded="true" />
-                    <element signature="e#266#267#0" expanded="true" />
-                    <element signature="e#299#300#0" expanded="true" />
-                    <element signature="e#333#334#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="221">
+                  <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
                 </state>
               </provider>
             </entry>
@@ -73,12 +673,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/unit10/E10_2_LinkOuter.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+                <state relative-caret-position="510">
+                  <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
                   <folding>
                     <element signature="e#277#278#0" expanded="true" />
                     <element signature="e#303#304#0" expanded="true" />
@@ -96,7 +696,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/unit10/E10_2_LinkOuter2.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
+                <state relative-caret-position="391">
                   <caret line="27" column="36" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="36" />
                 </state>
               </provider>
@@ -105,8 +705,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/unit10/Sequence.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-87">
-                  <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+                <state relative-caret-position="491">
+                  <caret line="62" selection-start-line="62" selection-end-line="62" />
                   <folding>
                     <element signature="e#791#792#0" expanded="true" />
                     <element signature="e#839#840#0" expanded="true" />
@@ -138,7 +738,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -161,12 +761,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="22" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
+    <option name="x" value="347" />
+    <option name="y" value="414" />
+    <option name="width" value="1296" />
+    <option name="height" value="706" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -174,7 +774,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,30 +786,11 @@
               <item name="Thinking in Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Thinking in Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thinking in Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="unit10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Thinking in Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thinking in Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="unit10" type="462c0819:PsiDirectoryNode" />
-              <item name="E10_2_LinkOuter.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Thinking in Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thinking in Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="unit10" type="462c0819:PsiDirectoryNode" />
-              <item name="E10_2_LinkOuter2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -218,14 +798,14 @@
     <property name="SearchEverywhereHistoryKey" value="histo&#9;ACTION&#9;LocalHistory.ShowHistory&#10;history&#9;ACTION&#9;LocalHistory.ShowHistory" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545144500086" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553526070004" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -337,45 +917,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544873924753</updated>
-      <workItem from="1544873936050" duration="18714000" />
+      <workItem from="1544873936050" duration="20113000" />
+      <workItem from="1546954824171" duration="1441000" />
+      <workItem from="1547818669247" duration="586000" />
+      <workItem from="1547819552604" duration="147000" />
+      <workItem from="1551452961355" duration="703000" />
+      <workItem from="1553441787381" duration="547000" />
+      <workItem from="1553524564618" duration="1494000" />
     </task>
+    <task id="LOCAL-00001" summary="重置文件结构">
+      <created>1553525946235</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553525946235</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18714000" />
+    <option name="totallyTimeSpent" value="25031000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21481876" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32956383" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" weight="0.24167562" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.24071082" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.24071082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.24167562" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956383" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,59 +977,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="重置文件结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="重置文件结构" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://E:/Develop/java_/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="123" column="44" selection-start-line="123" selection-start-column="44" selection-end-line="123" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/unit10/LinkOuter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
-          <folding>
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#832#833#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Develop/java_/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-          <folding>
-            <element signature="e#10065#10066#0" expanded="true" />
-            <element signature="e#10148#10149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/unit10/E10_2_LinkOuter3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
-          <folding>
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#729#730#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#828#829#0" expanded="true" />
-            <element signature="e#875#876#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://E:/Develop/java_/src.zip!/java/lang/Integer.java" />
+    <entry file="file://$PROJECT_DIR$/src/unit10/LinkOuter.java" />
+    <entry file="jar://E:/Develop/java_/src.zip!/java/lang/Object.java" />
+    <entry file="file://$PROJECT_DIR$/src/unit10/E10_2_LinkOuter3.java" />
     <entry file="file://$PROJECT_DIR$/src/unit10/Parcel1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -448,10 +997,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="42" column="24" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="24" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -459,26 +1004,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/unit10/E10_2_LinkOuter2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="27" column="36" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/unit10/E10_2_LinkOuter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="510">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
           <folding>
             <element signature="e#277#278#0" expanded="true" />
             <element signature="e#303#304#0" expanded="true" />
@@ -492,10 +1024,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/unit10/E10_2_LinkOuter2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/unit10/Sequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87">
-          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        <state relative-caret-position="491">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
           <folding>
             <element signature="e#791#792#0" expanded="true" />
             <element signature="e#839#840#0" expanded="true" />
@@ -511,16 +1050,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/unit10/E10_2_LinkOuterStr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="221">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -582,6 +1113,18 @@
               <list>
                 <option value="0.2" />
                 <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
