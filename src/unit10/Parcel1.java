@@ -9,7 +9,7 @@ public class Parcel1 {
         }
     }
 
-
+    //内部类
     class Destination {
         private String label;
 
